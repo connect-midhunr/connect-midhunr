@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Midhun R
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Exploratory Data Analysis
+- 🌱 I’m currently learning ML Algorithms
